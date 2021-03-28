@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-CA"
-title                    : "Always Learning"
+title                    : "Jesse Ward-Bond"
 title_separator          : "-"
-subtitle                 : #Jesse Ward-Bond
+subtitle                 : "Always Learning"
 name                     : "Jesse Ward-Bond"
 description              : "Jesse Ward-Bond Personal Blog"
 url                      : "https://always-learn.com"
