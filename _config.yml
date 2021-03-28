@@ -98,7 +98,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "I'm blue"
   location         : "Vancouver"
-  email            :
+  email            : "jessewb.c@gmail.com"
   links:
     - label: "Resume / Cv"
       icon: "fas fa-fw fa-file-pdf"
