@@ -6,11 +6,13 @@ tags: 4-stars
 
 excerpt: "This was a highly relevant book for me, but not because it is about a global pandemic..." 
 ---
+<img src="/assets/images/severance-ling-ma.jpg" alt="Book cover for Severance by Ling Ma" width="350">
 
 <i class="fas fa-star fa-lg"></i>
 <i class="fas fa-star fa-lg"></i>
 <i class="fas fa-star fa-lg"></i>
 <i class="fas fa-star fa-lg"></i>
+<i class="far fa-star fa-lg"></i>
 
 This was a highly relevant book for me. Not because it is about a global pandemic – one that is admittedly much more terrifying that what we are going through – but because at its core it is about disillusionment. It is a poignant satire about inescapable corporate farce and the “millennial condition”, which in my experience is the struggle to find identity and meaning in a world where you are a commodity.
 
