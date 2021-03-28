@@ -1,6 +1,6 @@
 ---
-title:  "Book Review: Mornings in Jenin by Susan Abulhawa"
-date:   2021-03-27 22:00:00 -0700
+title: "Book Review: Mornings in Jenin by Susan Abulhawa"
+date: 2021-03-27 22:00:00 -0700
 categories: reviews books
 tags: 4-stars
 

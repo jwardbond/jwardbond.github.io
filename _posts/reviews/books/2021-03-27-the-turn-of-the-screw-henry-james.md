@@ -1,6 +1,6 @@
 ---
-title:  "Book Review: The Turn of the Screw"
-date:   2021-03-27 22:00:00 -0700
+title: "Book Review: The Turn of the Screw"
+date: 2021-03-27 22:00:00 -0700
 categories: reviews books
 tags: 1-star
 

@@ -1,6 +1,6 @@
 ---
-title:  "Book Review: Severence by Ling Ma"
-date:   2021-03-27 12:00:00 -0700
+title: "Book Review: Severence by Ling Ma"
+date: 2021-03-27 12:00:00 -0700
 categories: reviews books
 tags: 4-stars
 
