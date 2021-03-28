@@ -6,7 +6,7 @@ tags: 4-stars
 
 excerpt: "This was a highly relevant book for me, but not because it is about a global pandemic..." 
 ---
-<img src="/assets/images/severance-ling-ma.jpg" alt="Book cover for Severance by Ling Ma" width="350">
+<img src="/assets/images/severance.jpg" alt="Book cover for Severance by Ling Ma" width="350">
 
 <i class="fas fa-star fa-lg"></i>
 <i class="fas fa-star fa-lg"></i>
