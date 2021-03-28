@@ -100,8 +100,11 @@ author:
   location         : "Vancouver"
   email            :
   links:
+    - label: "Resume / Cv"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "./assets/images/cv-jesse-ward-bond-2021.pdf"
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "far fa-fw fa-envelope"
       url: "mailto:jessewb.c@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -118,6 +121,8 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/jwardbond/"
+
+
 
 # Site Footer
 footer:
