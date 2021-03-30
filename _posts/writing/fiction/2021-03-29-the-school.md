@@ -3,7 +3,8 @@ title: "The School"
 date: 2021-03-29 18:30:00 -0700
 categories: writing fiction
 tags: fiction
-excerpt: ""
+excerpt: "You were gone before I could say anything..."
+author_profile: false
 ---
 I had a nightmare last night.
 
@@ -17,11 +18,11 @@ This must have been The School.
 
 It made no sense. It looked as if three city-block-sized cubes had been superimposed inside each other, but each had been slightly skewed: all jutting corners and protruding edges and random angles. Some of the faces were covered by massive, dark windows, hinting at empty atriums, some were just heavily-curtained portholes, and others were smooth beige brick devoid of any other notable features. Looking at the building was like looking at some sort of extradimensional maze. There were infinite places to be watched from, and focusing on any particular feature caused the rest of the building to blur and shift in furtive movements.
 
-A breeze swept up towards The School, its eddies rattling dead forest things along the path. When it reached the twisted building it gently cracked open an old door that had conveniently appeared at its base. I couldn’t see into The School – what little light there was seemed to lose its will as soon as it crossed the threshold behind the open door. You turned to me and said, blithely:
+A breeze swept up towards The School, its eddies rattling dead forest things along the path. When it reached the twisted building it gently cracked open an old door that had conveniently appeared at its base. I couldn’t see into The School – what little light there was seemed to lose its will as soon as it crossed The Threshold behind the open door. You turned to me and said, blithely:
 
 Let’s go in.
 
-Like you didn’t see the muted shapes moving just out of sight through dark glass, or the shifting curtains being drawn across the windows the instant before you looked at them. You started walking towards the building without a thought. Out of fear of being alone, I silently followed, my heart beating faster and louder with every step we took towards that foreboding door – like it was straining against a smothering force. By the time you put your hand on the old metal door handle it felt like it was going to beat out of my chest.
+Like you didn’t see the muted shapes moving just out of sight through dark glass, or the curtains being drawn across the windows the instant before you looked at them. You started walking towards the building without a thought. Out of fear of being alone, I silently followed, my heart beating faster and louder with every step we took towards that foreboding door – like it was straining against a smothering force. By the time you put your hand on the old metal door handle my heart was going to beat out of my chest.
 
 You opened The Door, and there was no room behind it. It opened to three thin stairways: one sat on either side of the entrance, and the third extended straight down in front of us.  Each stairway was narrow, less than an arms-length wide, and tiled with gritty linoleum. The murky twilight that covered the forest behind us joined us in crossing The Threshold, and with it I could see that each stairway rapidly forked and twisted out of sight. As much of a maze as the outside of The School was.
 
