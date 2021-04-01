@@ -4,7 +4,7 @@ date: 2021-03-31 22:00:00 -0700
 categories: reviews books
 tags: 3-stars
 
-excerpt: "The only saving grace of this book was that it was so short that it made counting the pages until the end easy..." 
+excerpt: "Was 'Normal People' a misnomer?" 
 ---
 <img src="/assets/images/normal-people.jpg" alt="Book cover for Normal People" width="350">
 
