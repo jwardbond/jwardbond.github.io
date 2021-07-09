@@ -3,6 +3,8 @@ title: "Book Review: Hillbilly Elegy by JD Vance"
 date: 2021-04-03 10:00:00 -0700
 categories: reviews books
 tags: 4-stars
+
+excerpt: "A candid peek into a side of America that I had only ever seen in YouTube videos - mostly those involving people with too-small shirts screaming in Walmarts, waving 2L bottles of soda over their heads as their waist-high children look on apathetically" 
 ---
 <img src="/assets/images/hillbilly-elegy.jpg" alt="Book cover for Hillbilly Elegy" width="350">
 
@@ -12,7 +14,7 @@ tags: 4-stars
 <i class="fas fa-star fa-lg"></i>
 <i class="far fa-star fa-lg"></i>
 
-A candid peek into a side of America that I had only ever seen in YouTube videos - mostly those involving people with too-small shirts screaming in Walmarts, waving 2L bottles of soda over their heads as their waist-high children look watch apathetically. This book was a thorough lesson in the many different journies the people around me have had to take to end up in the same place, albeit in a kind of typical rags-to-riches format.
+A candid peek into a side of America that I had only ever seen in YouTube videos - mostly those involving people with too-small shirts screaming in Walmarts, waving 2L bottles of soda over their heads as their waist-high children look on apathetically. This book was a thorough lesson in the many different journies the people around me have had to take to end up in the same place, albeit in a kind of typical rags-to-riches format.
 
 This book lightly touches on some heavy problems - ones that are woven together in inseperable knots that even the Author, who grew up in that recalcitrant tangle, struggles to make sense of:
 
@@ -31,3 +33,7 @@ This is where things get a little disingenuous. This book is sometimes being pre
 Woops sorry that last one is from JD Vance's Mamaw.
 
 I really enjoyed this book as a memoir because I tried not to think of it as anything more. I appreciate that it was about a culture I knew **nothing** about, but I didn't pretend it was a magical window into the complete understanding of millions of rust-belt americans, it didn't "explain trump", and it didn't do much to educate me on the sources/solutions to the inequality it described. It was a depressingly entertaining success story of a man who worked his a** off to get where he is. That's it.
+
+---
+
+<sup>1. There is definitely an (intersectionality) argument to be made here that even if the point of the book wasn't to address other forms of inequality, it should have at least acknowledged them more than it did.</sup>
