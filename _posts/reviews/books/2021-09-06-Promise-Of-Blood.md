@@ -4,7 +4,7 @@ date: 2021-09-06 14:46:00 -0400
 categories: reviews books
 tags: 1-stars
 
-excerpt: "Sometimes you read a book that starts poorly, but gradually sucks you in. This is not that book."
+excerpt: "This was not a good book. The bones were there, but jenga-ed into a precarious tower that toppled in chapter 2. The reviews are so frighteningly good it makes me wonder whether I have lost touch with the genre, or my sanity."
 ---
 <img src="/assets/images/promise-of-blood.jpg" alt="Book cover for Promise of Blood" width="350">
 
