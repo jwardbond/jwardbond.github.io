@@ -4,9 +4,9 @@ date: 2022-01-07 18:27:00 -0400
 categories: reviews books
 tags: 2-stars
 
-excerpt: "This was not a good book. The bones were there, but jenga-ed into a precarious tower that toppled in chapter 2. The reviews are so frighteningly good it makes me wonder whether I have lost touch with the genre, or my sanity."
+excerpt: "And here, next to the cage of internet trolls, we have a group of people who actually believe they sleep with Severus Snape sometimes!"
 ---
-<img src="/assets/images/strange-rites.jpg" alt="Book cover for Promise of Blood" width="350">
+<img src="/assets/images/strange-rites.jpg" alt="Book cover for Strange Rites" width="350">
 
 <i class="fas fa-star fa-lg"></i>
 <i class="fas fa-star fa-lg"></i>
