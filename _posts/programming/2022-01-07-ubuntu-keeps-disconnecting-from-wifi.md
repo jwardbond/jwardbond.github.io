@@ -3,7 +3,7 @@ title: "Ubuntu Wifi Frequently Disconnecting Realtek Drivers Solution"
 date: 2022-01-08 10:33 -0500
 categories: programming
 tags: ubuntu
-excerpt: ""
+excerpt: "There are a ton of reasons why you might end up with a finnicky WiFi connection when using Ubuntu (just try googling 'WiFi randomly disconnecting Ubuntu'), and I believe I have found yet another."
 author_profile: false
 ---
 There are a *ton* of reasons why you might end up with a finnicky WiFi connection when using Ubuntu (just try googling "WiFi randomly disconnecting Ubuntu), and I believe I have found yet another. I couldn't seem to find any existing solutions to this particular problem, so I figured this is a good opportunity for me to contribute something!
@@ -37,7 +37,7 @@ Force NetworkManager to connect to only working BSSID when connecting to the int
 
 This forces NetworkManager to use a specific BSSID when connecting to the SSID. After doing this, you will likely see two entries in your Visible Networks with the same SSID. One of these is the SSID+BSSID combination you just specified, and the other is the original SSID. **MAKE SURE YOU DON'T AUTO-CONNECT TO THE ORIGINAL SSID**. It's easies to just 'Forget' the original SSID.
 
-<img src="https://jwardbond.github.io/assets/images/ubuntu-wifi-problem" alt="a visual description of the steps above">
+<img src="https://jwardbond.github.io/assets/images/ubuntu-wifi-problem.png" alt="a visual description of the steps above">
 
 # Detailed Investigation
 When experiencing a disconnect / reauthentication event, run `sudo dmesg | grep wlp`. Ideally, this should return something like the following:
