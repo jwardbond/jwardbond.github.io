@@ -6,7 +6,7 @@ tags: ubuntu
 excerpt: "There are a ton of reasons why you might end up with a finnicky WiFi connection when using Ubuntu (just try googling 'WiFi randomly disconnecting Ubuntu'), and I believe I have found yet another."
 author_profile: false
 ---
-There are a *ton* of reasons why you might end up with a finnicky WiFi connection when using Ubuntu (just try googling "WiFi randomly disconnecting Ubuntu), and I believe I have found yet another. I couldn't seem to find any existing solutions to this particular problem, so I figured this is a good opportunity for me to contribute something!
+There are a *ton* of reasons why you might end up with a finnicky WiFi connection when using Ubuntu (just try googling 'WiFi randomly disconnecting Ubuntu'), and I believe I have found yet another. I couldn't seem to find any existing solutions to this particular problem, so I figured this is a good opportunity for me to contribute something!
 
 I recently built a desktop out of spare parts I had, which I intended to use solely to run Linux. Installation of Ubuntu 20.04 LTS was successfull, but when I tried to connect to my WiFi I ended up with a frustrating problem: I would successfully connect, use it for a few minutes, and then it would disconnect and re-prompt me for the password. I would input the password, and it *sometimes* reconnected, but sometimes it just immediately prompted me for the password again. Here is the hack I used to fix the problem.
 
