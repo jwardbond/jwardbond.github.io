@@ -27,7 +27,7 @@ I recently built a desktop out of spare parts I had, which I intended to use sol
 - Changing country code
 
 # Solution
-Force NetworkManager to connect to only working BSSID when connecting to the internet. This was done through 
+Force NetworkManager to connect to only working BSSID when connecting to the internet. This was done through the following steps: 
 
 1. Identify working BSSID by reading through `sudo dmesg`
 2. On your desktop, go into Settings -> Wi-Fi -> Settings (for your specific SSID) -> Identity
@@ -40,7 +40,7 @@ This forces NetworkManager to use a specific BSSID when connecting to the SSID. 
 <img src="https://jwardbond.github.io/assets/images/ubuntu-wifi-problem.png" alt="a visual description of the steps above">
 
 # Detailed Investigation
-When experiencing a disconnect / reauthentication event, run `sudo dmesg | grep wlp`. Ideally, this should return something like the following:
+When experiencing a disconnect / reauthentication event, run `sudo dmesg | grep 'wlp'`. Ideally, this should return something like the following:
 
 ```bash
 ...
