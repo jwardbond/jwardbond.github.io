@@ -4,7 +4,9 @@ date: 2022-01-08 10:33 -0500
 categories: programming
 tags: ubuntu
 excerpt: "There are a ton of reasons why you might end up with a finnicky WiFi connection when using Ubuntu (just try googling 'WiFi randomly disconnecting Ubuntu'), and I believe I have found yet another."
-author_profile: false
+author_profile: true
+toc: true
+toc_sticky: true
 ---
 There are a *ton* of reasons why you might end up with a finnicky WiFi connection when using Ubuntu (just try googling 'WiFi randomly disconnecting Ubuntu'), and I believe I have found yet another. I couldn't seem to find any existing solutions to this particular problem, so I figured this is a good opportunity for me to contribute something!
 
