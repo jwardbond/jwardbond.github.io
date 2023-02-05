@@ -102,7 +102,7 @@ author:
   links:
     - label: "Resume / Cv"
       icon: "fas fa-fw fa-file-pdf"
-      url: "./assets/images/cv-jesse-ward-bond-2022.pdf"
+      url: "https://always-learn.com/assets/images/cv-jesse-ward-bond-2022.pdf"
     - label: "Email"
       icon: "far fa-fw fa-envelope"
       url: "mailto:jessewb.c@gmail.com"
