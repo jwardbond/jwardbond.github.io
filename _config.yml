@@ -96,16 +96,16 @@ analytics:
 author:
   name             : "Jesse Ward-Bond"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I'm blue"
-  location         : "Vancouver"
-  email            : "jessewb.c@gmail.com"
+  bio              : "I <3 Farmer's Markets"
+  location         : "Toronto"
+  email            : "jessewb.e@gmail.com"
   links:
     - label: "Resume / Cv"
       icon: "fas fa-fw fa-file-pdf"
       url: "https://always-learn.com/assets/images/cv-jesse-ward-bond-2024.pdf"
     - label: "Email"
       icon: "far fa-fw fa-envelope"
-      url: "mailto:jessewb.c@gmail.com"
+      url: "mailto:jessewb.e@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -120,7 +120,7 @@ author:
       url: "https://github.com/jwardbond"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/jwardbond/"
+      url: "https://www.instagram.com/qurioustrivia/"
 
 
 
