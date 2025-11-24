@@ -1,5 +1,23 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
+.archive
+
+# Build and Release Folders
+bin/
+bin-debug/
+bin-release/
+[Oo]bj/ # FlashDevelop obj
+[Bb]in/ # FlashDevelop bin
+
+# Other files and folders
+.settings/
+.vscode/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Hugo
+public/
+/hugo_cache/
+.hugo_build.lock

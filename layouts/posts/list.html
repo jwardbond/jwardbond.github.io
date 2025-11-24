@@ -1,0 +1,16 @@
+{{ define "main" }}
+<h1>{{ .Page.Title }}</h1>
+<br/>
+<div class="posts-list">
+{{ $posts := where site.RegularPages "Section" "posts" }}
+{{ $posts = where $posts ".Params.private" "!=" true }}
+{{ range sort $posts "Date" "desc" }}
+        <div class="post">
+            <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>    
+            <h2><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title | truncate 40}}</a></h2>
+            {{ .Summary }}
+        </div>
+{{ end }}
+</div>
+
+{{ end }}
