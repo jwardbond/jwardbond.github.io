@@ -8,19 +8,11 @@ tags:
     - books
     - 1-star
 
-excerpt: "The only saving grace of this book was that it was so short that it made counting the pages until the end easy..." 
+summary: "The only saving grace of this book was that it was so short that it made counting the pages until the end easy..." 
 ---
-<img src="/assets/images/the-turn-of-the-screw.jpg" alt="Book cover for The Turn of the Screw" width="350">
-
-<i class="fas fa-star fa-lg"></i>
-<i class="far fa-star fa-lg"></i>
-<i class="far fa-star fa-lg"></i>
-<i class="far fa-star fa-lg"></i>
-<i class="far fa-star fa-lg"></i>
-
 The writing was almost impossible to decipher. At the time I read this, it was closest I have ever come to willingly putting down a novel I am reading (thanks to V.E. Schwab for making me have to edit this).
 
->Steadying myself with it there as I had repeatedly done at those moments of torment that I have described as the moments of my knowing the children to be given to something from which I was barred, I sufficiently obeyed my habit of being prepared for the worst.
+> Steadying myself with it there as I had repeatedly done at those moments of torment that I have described as the moments of my knowing the children to be given to something from which I was barred, I sufficiently obeyed my habit of being prepared for the worst.
 
 Mr. James clearly had a crippling fear of periods. I don't know when the "don't write like you talk" saying started becoming popular, but it clearly wasn't during the Victorian era. This novella reads like it was written by a high-student trying to flex to a room full of University English Professors.
 

@@ -21,10 +21,8 @@ Hurston's command of language was also apparent in the dialogue in the book. The
 
 I read a version of this book that had a short introduction by Mary Helen Washington, which highlighted how poorly this book was originally received during Hurston's lifetime. It was unapologetically backwards-looking during the Harlem Renaissance, a time when most black authors were focused on elevating African American culture and consciousness, and breaking free of the limiting chains of racism. In an oh-so-common literary twist of fate, what this book was lambasted for in the '30s was what it was ultimately lauded for in the '70s. By focusing on the plight of Janie as a woman above all traits (i.e. blackness), Hurston crafted a seminal piece of feminist literature.
 
-Like the other feminist literature I have read recently (Kim Ji-young, Born 1982 and The Awakening) I loved the complete rejection by the MC of the cultural norms they have been crushed under - at a certain point in these books they just hit that "f\*\*\* you, I do what I want" moment, which is so liberating<super>*</super> and thrilling to read.
+Like the other feminist literature I have read recently (Kim Ji-young, Born 1982 and The Awakening) I loved the complete rejection by the MC of the cultural norms they have been crushed under - at a certain point in these books they just hit that "f\*\*\* you, I do what I want" moment, which is so liberatingand thrilling to read.
 
 My only qualm with this book was that that the moment of self-realization felt to me like it ultimately came about because Janie was "rescued" by another man. As good as he was to Janie, Tea Cake as a savior just didn't feel quite right.
 
 All in all, a fantastic and easy to read book, which I highly recommend to anyone who never got to read it in high-school.
-
-<sub>*I am a cis white guy, what do I know of "liberation"? I am not sure if I am the wrong person to be espousing the ideas in this book, or the right person.</sub>

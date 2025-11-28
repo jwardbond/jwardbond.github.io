@@ -8,17 +8,9 @@ tags:
     - books
     - 3-stars
 
-excerpt: "Was 'Normal People' a misnomer?" 
+Summary: "Was 'Normal People' a misnomer?" 
 ---
-<img src="/assets/images/normal-people.jpg" alt="Book cover for Normal People" width="350">
-
-<i class="fas fa-star fa-lg"></i>
-<i class="fas fa-star fa-lg"></i>
-<i class="fas fa-star fa-lg"></i>
-<i class="far fa-star fa-lg"></i>
-<i class="far fa-star fa-lg"></i>
-
-### “Just Talk!”
+**“Just Talk!”**
 
 I wanted to scream, as the two normal people once more danced around their feelings, *almost* finding sincerity and understanding before turning away from each other again. It was like watching two pieces of dirt go down a gritty old bathtub drain: spinning around and around and around, always chasing each other, getting closer and closer together, but never *quite* meeting before they vanish from sight.
 
@@ -30,7 +22,6 @@ I am leaning towards “probably not, otherwise this book wouldn’t be very int
 
 I am left with one option in my semantic soliloquy then: to say that in my experience even the most obtuse people would have talked about their feelings long before Connell and Marianne failed to for the 19th time, but also that I am sure that Salley Rooney drew heavily from her own experiences; if I met Salley Rooney in a campus coffee shop on a rainy day, eating lemon pastry rolls, drinking a black coffee (one sugar), and answering emails on her laptop, I would probably call her normal too.
 
----
 ---
 
 Some stuff I couldn’t fit in to my review, which didn’t end up being so much a review as a short semantic essay:

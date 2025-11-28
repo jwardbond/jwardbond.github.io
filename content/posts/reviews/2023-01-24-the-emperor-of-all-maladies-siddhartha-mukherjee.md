@@ -10,14 +10,6 @@ tags:
 
 summary: It was like reading an annotated, pared-down anthology of the top cancer papers of the past 100 years. 
 ---
-<img src="/assets/images/the-emperor-of-all-maladies.webp" alt="Book cover for the emperor of all maladies by siddhartha mukherjee" width="350">
-
-<i class="fas fa-star fa-lg"></i>
-<i class="fas fa-star fa-lg"></i>
-<i class="fas fa-star fa-lg"></i>
-<i class="fas fa-star fa-lg"></i>
-<i class="fas fa-star fa-lg"></i>
-
 What a fantastic book!
 
 I almost want to characterize it as a love story. The number of sources Mukherjee pulled from, the number of interviews conducted, the sheer magnitude of work that went into this book... And then to tie it together in such an elegant and compassionate way... This herculean effort could only be a labour of love - the labour of someone who spends almost every waking moment watching cancer kill, break, build, and change people.

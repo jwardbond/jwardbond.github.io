@@ -8,7 +8,7 @@ tags:
     - books
     - 1-stars
 
-excerpt: "Drivel. Nothing but sex and fridging. How this managed to win any sort of award, even in the 70s, is totally beyond me. " 
+summary: "Drivel. Nothing but sex and fridging. How this managed to win any sort of award, even in the 70s, is totally beyond me. " 
 ---
 
 A disgustingly sexist book. Reviewing the female characters:

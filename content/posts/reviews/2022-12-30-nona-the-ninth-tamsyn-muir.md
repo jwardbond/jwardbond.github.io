@@ -8,15 +8,8 @@ tags:
     - books
     - 5-stars
 
-excerpt: "I have an insane level of respect for Tamsyn Muir for being able to do this in a fantasy/sci-fi without making anything feel tokenized." 
+summary: "I have an insane level of respect for Tamsyn Muir for being able to do this in a fantasy/sci-fi without making anything feel tokenized." 
 ---
-<img src="/assets/images/nona-the-ninth.jpg" alt="Book cover for Nona the Ninth by Tamsyn Muir" width="350">
-
-<i class="fas fa-star fa-lg"></i>
-<i class="fas fa-star fa-lg"></i>
-<i class="fas fa-star fa-lg"></i>
-<i class="fas fa-star fa-lg"></i>
-<i class="fas fa-star fa-lg"></i>
 
 Tamsyn Muir once again astonishes me with here ability to keep a constant narrative thread in a series where every book is so thematically different. The majority of this book was largely a household (in the residential sense) drama - a significant shift from her previous two books in the series, and with a largely new cast of characters to boot.
 

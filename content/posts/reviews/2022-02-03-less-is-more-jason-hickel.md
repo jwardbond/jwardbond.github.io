@@ -8,15 +8,8 @@ tags:
     - books
     - 5-stars
 
-excerpt: "This book ripped the door right off my temple and has brought into full view the grinding paradox that I have been blithely skipping around on my way through the rat race."
+summary: "This book ripped the door right off my temple and has brought into full view the grinding paradox that I have been blithely skipping around on my way through the rat race."
 ---
-<img src="/assets/images/less-is-more.jpg" alt="Book cover for Less is More" width="350">
-
-<i class="fas fa-star fa-lg"></i>
-<i class="fas fa-star fa-lg"></i>
-<i class="fas fa-star fa-lg"></i>
-<i class="fas fa-star fa-lg"></i>
-<i class="fas fa-star fa-lg"></i>
 
 *There is something wrong here.*
 

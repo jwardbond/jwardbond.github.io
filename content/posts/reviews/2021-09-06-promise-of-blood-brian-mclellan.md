@@ -8,16 +8,8 @@ tags:
     - books
     - 1-stars
 
-excerpt: "This was not a good book. The bones were there, but jenga-ed into a precarious tower that toppled in chapter 2. The reviews are so frighteningly good it makes me wonder whether I have lost touch with the genre, or my sanity."
+summary: "This was not a good book. The bones were there, but jenga-ed into a precarious tower that toppled in chapter 2. The reviews are so frighteningly good it makes me wonder whether I have lost touch with the genre, or my sanity."
 ---
-<img src="/assets/images/promise-of-blood.jpg" alt="Book cover for Promise of Blood" width="350">
-
-<i class="fas fa-star fa-lg"></i>
-<i class="far fa-star fa-lg"></i>
-<i class="far fa-star fa-lg"></i>
-<i class="far fa-star fa-lg"></i>
-<i class="far fa-star fa-lg"></i>
-
 This book had it all: a beautiful cover, endorsements by some of my favourite authors, a unique magic system, a grimdark industrial revolution setting... So why was it so bad?
 
 It sometimes happens that you read something early on in a book that sullies your opinion for the remainder. You don the opposite of rose-coloured glasses (s--- coloured glasses?). These things are so jarring that no matter how hard you try to get back into the book, how much you try to re-engage with the book and suspend your disbelief, you always have this niggling little voice in the back of your head saying "remember the time the author said *that thing*?"
