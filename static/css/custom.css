@@ -101,6 +101,22 @@ blockquote {
     margin: 0;
 }
 
+/* List styling */
+ol li::before {
+    content: none;
+}
+li {
+    margin: 0 0 calc(var(--global-line-height) / 4);
+}
+li::after {
+    color: var(--primary-color);
+    content: counters(item, ".") ". ";
+    counter-increment: item;
+}
+.footnotes p, .footnotes em, .footnotes strong {
+    color: var(--secondary-color)
+}
+
 /* Styling for serif posts */
 .serif-post p,
 .serif-post li,
