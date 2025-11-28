@@ -1,10 +1,14 @@
 ---
-title: "Book Review: Candide by Voltaire"
+title: "Candide by Voltaire"
 date: 2023-02-01 22:00:00 -0700
-categories: reviews books
-tags: 3-stars
+font_mode: serif
+categories:
+    - reviews
+tags:
+    - books
+    - 3-stars
 
-excerpt: "After being beaten, robbed, conscripted, lost, convicted, etc., Candide begins to understand the world in a different light." 
+summary: "After being beaten, robbed, conscripted, lost, convicted, etc., Candide begins to understand the world in a different light." 
 ---
 
 This book is about a man (Candide) who capers from misfortune to misfortune, all the while convinced that everything is for the best. By the end of the book, after being beaten, robbed, conscripted, lost, convicted, etc. he begins to understand the world in a different light. This culminates in the final line of the book: "We must cultivate our garden", signifying a total shift of perspective from external optimism to... inwards-facing apathy?

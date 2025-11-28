@@ -1,107 +1,176 @@
-@font-face {
-    font-family: "Google Sans Code";
-    src: url("../fonts/GoogleSansCode-Regular.ttf") format("truetype");
-    font-style: normal;
-    font-weight: 400;
-    text-rendering: optimizeLegibility;
+/* @font-face {
+  font-family: "Google Sans Code";
+  src: url("../fonts/GoogleSansCode-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  text-rendering: optimizeLegibility;
 }
 
 @font-face {
-    font-family: "Google Sans Code";
-    src: url("../fonts/GoogleSansCode-Italic.ttf") format("truetype");
-    font-style: italic;
-    font-weight: 400;
-    text-rendering: optimizeLegibility;
+  font-family: "Google Sans Code";
+  src: url("../fonts/GoogleSansCode-Italic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: 400;
+  text-rendering: optimizeLegibility;
 }
 
 @font-face {
-    font-family: "Google Sans Code";
-    src: url("../fonts/GoogleSansCode-Bold.ttf") format("truetype");
-    font-style: normal;
-    font-weight: 700;
-    text-rendering: optimizeLegibility;
+  font-family: "Google Sans Code";
+  src: url("../fonts/GoogleSansCode-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+  text-rendering: optimizeLegibility;
 }
 
 @font-face {
-    font-family: "Google Sans Code";
-    src: url("../fonts/GoogleSansCode-BoldItalic.ttf") format("truetype");
-    font-style: italic;
-    font-weight: 700;
-    text-rendering: optimizeLegibility;
+  font-family: "Google Sans Code";
+  src: url("../fonts/GoogleSansCode-BoldItalic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: 700;
+  text-rendering: optimizeLegibility;
+} */
+
+@font-face {
+  font-family: "EB Garamond";
+  src: url("../fonts/EBGaramond-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  text-rendering: optimizeLegibility;
 }
 
 @font-face {
-    font-family: "EB Garamond";
-    src: url("../fonts/EBGaramond-Regular.ttf") format("truetype");
-    font-style: normal;
-    font-weight: 400;
-    text-rendering: optimizeLegibility;
+  font-family: "EB Garamond";
+  src: url("../fonts/EBGaramond-Italic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: 400;
+  text-rendering: optimizeLegibility;
 }
 
 @font-face {
-    font-family: "EB Garamond";
-    src: url("../fonts/EBGaramond-Italic.ttf") format("truetype");
-    font-style: italic;
-    font-weight: 400;
-    text-rendering: optimizeLegibility;
+  font-family: "EB Garamond";
+  src: url("../fonts/EBGaramond-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+  text-rendering: optimizeLegibility;
 }
 
 @font-face {
-    font-family: "EB Garamond";
-    src: url("../fonts/EBGaramond-Bold.ttf") format("truetype");
-    font-style: normal;
-    font-weight: 700;
-    text-rendering: optimizeLegibility;
-}
-
-@font-face {
-    font-family: "EB Garamond";
-    src: url("../fonts/EBGaramond-BoldItalic.ttf") format("truetype");
-    font-style: italic;
-    font-weight: 700;
-    text-rendering: optimizeLegibility;
+  font-family: "EB Garamond";
+  src: url("../fonts/EBGaramond-BoldItalic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: 700;
+  text-rendering: optimizeLegibility;
 }
 
 :root {
-    --background-color: #1a1a1a;
-    --page-width: 40em;
-    --font-color: #ffffff;
-    --invert-font-color: #222225;
-    --secondary-color: #a3abba;
-    --tertiary-color: #a3abba;
-    --primary-color: #29b4ff;
-    --error-color: #ff3c74;
-    --progress-bar-background: #3f3f44;
-    --progress-bar-fill: #29b4ff;
-    --code-bg-color: #3f3f44;
+  --background-color: #1a1a1a;
+  --page-width: 40em;
+  --font-color: #ffffff;
+  --invert-font-color: #222225;
+  --secondary-color: #a3abba;
+  --tertiary-color: #a3abba;
+  --primary-color: #29b4ff;
+  --error-color: #ff3c74;
+  --progress-bar-background: #3f3f44;
+  --progress-bar-fill: #29b4ff;
+  --code-bg-color: #3f3f44;
 }
 
 :root {
-    --global-font-size: 20px;
-    --mono-font-stack: Google Sans Code, Roboto Mono, Menlo, Monaco, Lucida Console,
-        Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono,
-        Courier New, monospace, serif;
-    --font-stack: Google Sans Code, Roboto Mono, Menlo, Monaco, Lucida Console,
-        Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono,
-        Courier New, monospace, serif;
-    --typo-font-stack: EB Garamond, serif;
+    --global-font-size: 18px;
+    --font-stack: Google Sans Code, Menlo, Monaco, Lucida Console,
+    Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New,
+    monospace, serif;
+
+    --mono-font-stack: Google Sans Code, Roboto Mono, Menlo, Monaco,
+    Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono,
+    Courier New, monospace, serif;
+    --mono-font-size: var(--global-font-size);
+
+    --serif-font-size: 20px;
+    --serif-font-stack: EB Garamond, serif;
 }
 
-/* Typography font styling */
-p {
-    font-family: var(--typo-font-stack);
+/* Clear default blockquote styling */
+blockquote::after {
+    content: none;
+}
+blockquote {
+    padding-left: 2em;
+    padding-right: 2em;
+    margin: 0;
 }
 
-.mono {
-    font-family: var(--mono-font-stack);
+/* Styling for serif posts */
+.serif-post p,
+.serif-post li,
+.serif-post em,
+.serif-post strong,
+.serif-post blockquote{
+  font-family: var(--serif-font-stack);
+  font-size: var(--serif-font-size);
+  text-align: justify;
+  hyphens: auto;   
 }
 
-.terminal p>em {
-    font-family: var(--typo-font-stack);
+.serif-post blockquote p {
+    font-style: italic;
+    color: var(--secondary-color);
 }
 
-.terminal p>strong {
-    font-family: var(--typo-font-stack);
+.serif-post blockquote::before {
+    content: open-quote;
+
+    color: var(--primary-color);
+    font-size: 3em;
+
+    vertical-align: -0.4em;
+    margin-right: 0.1em;
+    position: absolute;
+    left: 0.0;
+    top: 0.2em;
+}
+
+/* Styling for mono posts */
+.mono-post p,
+.mono-post li,
+.mono-post em,
+.mono-post strong,
+.mono-post blockquote{
+  font-family: var(--mono-font-stack);
+  font-size: var(--mono-font-size);
+  text-align: justify;
+  hyphens: auto;   
+}
+
+.mono-post blockquote p {
+    font-style: italic;
+    color: var(--secondary-color);
+}
+
+.mono-post blockquote::before {
+    content: ">";
+
+    color: var(--primary-color); 
+    font-size: 1.5em;
+
+    vertical-align: -0.4em;
+    margin-right: 0.1em;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+
+.taglist a {
+  color: var(--secondary-color);
+  font-size: smaller;
+}
+
+.taglist a:hover {
+  color: var(--invert-font-color);
+  background-color: var(--secondary-color);
+  font-size: smaller;
 }
 
 /* Wrapping the terminal prompt */
@@ -114,21 +183,21 @@ p {
 }
 
 @media only screen and (min-width: 851px) {
-    .terminal-nav {
-        display: flex;
-        flex-wrap: nowrap;
-        justify-content: space-between;
-    }
-    .terminal-logo {
-        flex-basis: 66.66%;
-        max-width: 66.66%;
-    }
-    .terminal-menu {
-        flex-basis: 33.33%;
-        max-width: 33.33%;
-        text-align: right;
-    }
-    .terminal-prompt {
-        max-width: 100%;
-    }
+  .terminal-nav {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+  }
+  .terminal-logo {
+    flex-basis: 66.66%;
+    max-width: 66.66%;
+  }
+  .terminal-menu {
+    flex-basis: 33.33%;
+    max-width: 33.33%;
+    text-align: right;
+  }
+  .terminal-prompt {
+    max-width: 100%;
+  }
 }

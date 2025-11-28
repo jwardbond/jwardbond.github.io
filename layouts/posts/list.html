@@ -4,13 +4,23 @@
 <div class="posts-list">
 {{ $posts := where site.RegularPages "Section" "posts" }}
 {{ $posts = where $posts ".Params.private" "!=" true }}
-{{ range sort $posts "Date" "desc" }}
-        <div class="post">
-            <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>    
+{{ range sort $posts "Date" "desc" }}        <div class="post">
+            <div class="date">{{ .Date | time.Format ":date_medium" }}</div>
             <h2><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title | truncate 40}}</a></h2>
-            {{ .Summary }}
-        </div>
-{{ end }}
+            <div class="taglist">
+                {{ with .Params.categories }}
+    			    {{ range . }}
+    			    <a href="{{ "categories/" | relURL }}{{ . | urlize }}" class="tag category-tag">:{{ . }}:</a>
+    			    {{ end }}
+    			{{ end }}
+    			{{ with .Params.tags }}
+    			    {{ range . }}
+    			    <a href="{{ "tags/" | relURL }}{{ . | urlize }}" class="tag">:{{ . }}:</a>
+    			    {{ end }}
+    			{{ end }}
+            </div>
+            <p class="summary">{{ .Summary }}</p>
+        </div>    
+    {{ end }}
 </div>
-
 {{ end }}

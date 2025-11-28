@@ -1,8 +1,12 @@
 ---
-title: "Book Review: Promise of Blood"
+title: "Promise of Blood by Brian McClellan"
 date: 2021-09-06 14:46:00 -0400
-categories: reviews books
-tags: 1-stars
+font_mode: serif
+categories:
+    - reviews
+tags:
+    - books
+    - 1-stars
 
 excerpt: "This was not a good book. The bones were there, but jenga-ed into a precarious tower that toppled in chapter 2. The reviews are so frighteningly good it makes me wonder whether I have lost touch with the genre, or my sanity."
 ---

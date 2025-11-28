@@ -1,8 +1,12 @@
 ---
-title: "Book Review: The Turn of the Screw by Henry James"
+title: "The Turn of the Screw by Henry James"
 date: 2021-03-27 22:00:00 -0700
-categories: reviews books
-tags: 1-star
+font_mode: serif
+categories: 
+    - reviews
+tags: 
+    - books
+    - 1-star
 
 excerpt: "The only saving grace of this book was that it was so short that it made counting the pages until the end easy..." 
 ---

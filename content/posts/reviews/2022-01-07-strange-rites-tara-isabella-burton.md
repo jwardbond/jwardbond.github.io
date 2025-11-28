@@ -1,8 +1,12 @@
 ---
-title: "Book Review: Strange Rites"
+title: "Strange Rites by Tara Isabelle Burton"
 date: 2022-01-07 18:27:00 -0400
-categories: reviews books
-tags: 2-stars
+font_mode: serif
+categories:
+    - reviews
+tags:
+    - books
+    - 2-stars
 
 excerpt: "And here, next to the cage of internet trolls, we have a group of people who actually believe they sleep with Severus Snape sometimes!"
 ---

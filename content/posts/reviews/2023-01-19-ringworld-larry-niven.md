@@ -1,8 +1,12 @@
 ---
-title: "Book Review: Ringworld by Larry Niven"
+title: "Ringworld by Larry Niven"
 date: 2023-01-19 22:00:00 -0700
-categories: reviews books
-tags: 1-stars
+font_mode: serif
+categories:
+    - reviews
+tags:
+    - books
+    - 1-stars
 
 excerpt: "Drivel. Nothing but sex and fridging. How this managed to win any sort of award, even in the 70s, is totally beyond me. " 
 ---

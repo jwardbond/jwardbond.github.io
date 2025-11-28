@@ -21,3 +21,9 @@
     [[params.navlinks]]
     name = "posts/"
     url = "posts/"
+
+
+[taxonomies]
+    category = "categories"
+    star = "stars"
+    tag = "tags"

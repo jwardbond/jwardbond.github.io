@@ -1,8 +1,12 @@
 ---
-title: "Book Review: Less is More"
+title: "Less is More by Jason Hickel"
 date: 2022-02-03 11:52:00 -0400
-categories: reviews books
-tags: 5-stars
+font_mode: serif
+categories:
+    - reviews
+tags:
+    - books
+    - 5-stars
 
 excerpt: "This book ripped the door right off my temple and has brought into full view the grinding paradox that I have been blithely skipping around on my way through the rat race."
 ---

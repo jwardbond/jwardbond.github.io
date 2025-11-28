@@ -1,8 +1,12 @@
 ---
-title: "Book Review: Normal People by Sally Rooney"
+title: "Normal People by Sally Rooney"
 date: 2021-03-31 22:00:00 -0700
-categories: reviews books
-tags: 3-stars
+font_mode: serif
+categories: 
+    - reviews
+tags:
+    - books
+    - 3-stars
 
 excerpt: "Was 'Normal People' a misnomer?" 
 ---

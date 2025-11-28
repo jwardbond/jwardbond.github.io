@@ -1,10 +1,14 @@
 ---
-title: "Book Review: The Emperor of All Maladies by Siddahartha Mukherjee"
+title: "The Emperor of All Maladies by Siddahartha Mukherjee"
 date: 2023-01-24 22:00:00 -0700
-categories: reviews books
-tags: 5-stars
+font_mode: serif
+categories:
+    - reviews
+tags:
+    - books
+    - 5-stars
 
-excerpt: "It was like reading an annotated, pared-down anthology of the top cancer papers of the past 100 years." 
+summary: It was like reading an annotated, pared-down anthology of the top cancer papers of the past 100 years. 
 ---
 <img src="/assets/images/the-emperor-of-all-maladies.webp" alt="Book cover for the emperor of all maladies by siddhartha mukherjee" width="350">
 

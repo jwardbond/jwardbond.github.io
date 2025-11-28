@@ -1,22 +1,19 @@
 ---
-title: "Book Review: Their Eyes Were Watching God by Zora Neale Hurston"
+title: "Their Eyes Were Watching God by Zora Neale Hurston"
 date: 2023-01-28 22:00:00 -0700
-categories: reviews books
-tags: 4-stars
+font_mode: mono
+categories:
+    - reviews
+tags:
+    - books
+    - 4-stars
 
-excerpt: "Ships at a distance have every man's wish on board. For some they come in with the tide. For others they sail forever on the horizon, never out of site, never landing until the Watcher turns his eyes away in resignation, his dreams mocked to death by time." 
+summary: \"Ships at a distance have every man's wish on board. For some they come in with the tide. For others they sail forever on the horizon, never out of site, never landing until the Watcher turns his eyes away in resignation, his dreams mocked to death by time.\"
 ---
-<img src="/assets/images/their-eyes-were-watching-god.jpg" alt="Their Eyes Were Watching God by Zora Neale Hurston" width="350">
-
-<i class="fas fa-star fa-lg"></i>
-<i class="fas fa-star fa-lg"></i>
-<i class="fas fa-star fa-lg"></i>
-<i class="fas fa-star fa-lg"></i>
-<i class="far fa-star fa-lg"></i>
-
 The opening line of this book is one I will remember for the rest of my life.
 
-<blockquote>Ships at a distance have every man's wish on board. For some they come in with the tide. For others they sail forever on the horizon, never out of site, never landing until the Watcher turns his eyes away in resignation, his dreams mocked to death by time.</blockquote>
+> Ships at a distance have every man's wish on board. For some they come in with the tide. For others they sail forever on the horizon, never out of site, never landing until the Watcher turns his eyes away in resignation, his dreams mocked to death by time. 
+
 
 This potent imagery is emblematic of Hurston's writing style overall. There were so many times while reading this book when I found myself with my eyes closed, trying to just soak in the lyricism of what I had read. Hurston was clearly a master of the metaphor and a master of language.
 

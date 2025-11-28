@@ -1,10 +1,12 @@
 ---
-title: "Book Review: Mornings in Jenin by Susan Abulhawa"
+title: "Mornings in Jenin by Susan Abulhawa"
 date: 2021-03-27 22:00:00 -0700
-categories: reviews books
-tags: 4-stars
-
-excerpt: "To Zeid: I am sorry. I have always treated your ethnicity as something novel about you, and nothing more...." 
+font_mode: serif
+categories: 
+    - reviews 
+tags:
+    - books
+    - 4-stars
 ---
 
 I was recommended this book by a good Palestinian friend of mine.

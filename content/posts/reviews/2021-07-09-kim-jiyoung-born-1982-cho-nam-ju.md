@@ -1,8 +1,12 @@
 ---
-title: "Book Review: Kim Jiyoung, Born 1982"
+title: "Kim Jiyoung, Born 1982 by Cho Nam-ju"
 date: 2021-07-09 16:29:00 -0400
-categories: reviews books
-tags: 4-stars
+font_mode: serif
+categories:
+    - reviews
+tags:
+    - books
+    - 4-stars
 
 excerpt: "A clever juxtaposition that highlights how excellently humans are able to normalize things that are anything but"
 ---

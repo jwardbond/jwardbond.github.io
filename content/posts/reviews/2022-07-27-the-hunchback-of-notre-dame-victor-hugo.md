@@ -1,8 +1,12 @@
 ---
-title: "Book Review: The Hunchback of Notre Dame"
+title: "The Hunchback of Notre Dame by Victor Hugo"
 date: 2022-07-27 11:52:00 -0400
-categories: reviews books
-tags: 3-stars
+font_mode: serif
+categories:
+    - reviews
+tags:
+    - books
+    - 3-stars
 
 excerpt: "One of the worlds most well-known love stories, set in a painstakingly rendered 15th century Paris"
 ---

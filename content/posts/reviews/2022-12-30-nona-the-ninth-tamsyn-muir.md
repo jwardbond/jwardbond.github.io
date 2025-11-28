@@ -1,8 +1,12 @@
 ---
-title: "Book Review: Nona the Ninth by Tamsyn Muir"
+title: "Nona the Ninth by Tamsyn Muir"
 date: 2022-12-30 22:00:00 -0700
-categories: reviews books
-tags: 5-stars
+font_mode: serif
+categories:
+    - reviews
+tags:
+    - books
+    - 5-stars
 
 excerpt: "I have an insane level of respect for Tamsyn Muir for being able to do this in a fantasy/sci-fi without making anything feel tokenized." 
 ---

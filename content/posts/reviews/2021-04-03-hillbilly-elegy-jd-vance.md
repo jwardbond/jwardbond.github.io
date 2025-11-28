@@ -1,8 +1,12 @@
 ---
-title: "Book Review: Hillbilly Elegy by JD Vance"
+title: "Hillbilly Elegy by JD Vance"
 date: 2021-04-03 10:00:00 -0700
-categories: reviews books
-tags: 4-stars
+font_mode: serif
+categories: 
+    - reviews
+tags: 
+    - books
+    - 4-stars
 
 excerpt: "A candid peek into a side of America that I had only ever seen in YouTube videos - mostly those involving people with too-small shirts screaming in Walmarts, waving 2L bottles of soda over their heads as their waist-high children look on apathetically" 
 ---
