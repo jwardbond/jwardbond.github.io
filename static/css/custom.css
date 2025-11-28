@@ -119,7 +119,7 @@ blockquote {
 }
 
 .serif-post blockquote::before {
-    content: open-quote;
+    content: "“";
 
     color: var(--primary-color);
     font-size: 3em;
