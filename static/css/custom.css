@@ -1,4 +1,4 @@
-/* @font-face {
+@font-face {
   font-family: "Google Sans Code";
   src: url("../fonts/GoogleSansCode-Regular.ttf") format("truetype");
   font-style: normal;
@@ -28,7 +28,7 @@
   font-style: italic;
   font-weight: 700;
   text-rendering: optimizeLegibility;
-} */
+}
 
 @font-face {
   font-family: "EB Garamond";
@@ -91,7 +91,38 @@
     --serif-font-stack: EB Garamond, serif;
 }
 
-/* Clear default blockquote styling */
+
+/* Wrapping the terminal prompt */
+.terminal-prompt {
+  max-width: 70%;
+  white-space: normal;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+@media only screen and (min-width: 851px) {
+  .terminal-nav {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+  }
+  .terminal-logo {
+    flex-basis: 66.66%;
+    max-width: 66.66%;
+  }
+  .terminal-menu {
+    flex-basis: 33.33%;
+    max-width: 33.33%;
+    text-align: right;
+  }
+  .terminal-prompt {
+    max-width: 100%;
+  }
+}
+
+
+/* Blockquote styling */
 blockquote::after {
     content: none;
 }
@@ -100,6 +131,7 @@ blockquote {
     padding-right: 2em;
     margin: 0;
 }
+
 
 /* List styling */
 ol li::before {
@@ -116,6 +148,7 @@ li::after {
 .footnotes p, .footnotes em, .footnotes strong {
     color: var(--secondary-color)
 }
+
 
 /* Styling for serif posts */
 .serif-post p,
@@ -146,6 +179,7 @@ li::after {
     left: 0.0;
     top: 0.2em;
 }
+
 
 /* Styling for mono posts */
 .mono-post p,
@@ -178,6 +212,7 @@ li::after {
 }
 
 
+/* Taglist styling */
 .taglist a {
   color: var(--secondary-color);
   font-size: smaller;
@@ -189,31 +224,64 @@ li::after {
   font-size: smaller;
 }
 
-/* Wrapping the terminal prompt */
-.terminal-prompt {
-  max-width: 70%;
-  white-space: normal;
-  word-wrap: break-word;
-  overflow-wrap: break-word;
-  word-break: break-word;
+/* Post-list styling */
+.posts-list {
+    padding-left: 0;              /* undo theme offset */
 }
 
-@media only screen and (min-width: 851px) {
-  .terminal-nav {
-    display: flex;
-    flex-wrap: nowrap;
-    justify-content: space-between;
-  }
-  .terminal-logo {
-    flex-basis: 66.66%;
-    max-width: 66.66%;
-  }
-  .terminal-menu {
-    flex-basis: 33.33%;
-    max-width: 33.33%;
-    text-align: right;
-  }
-  .terminal-prompt {
-    max-width: 100%;
-  }
+.post {
+    display: grid;
+    grid-template-columns: 130px 1fr;
+    column-gap: 1rem;
+    row-gap: 0.25rem;
+    margin-bottom: 1rem;
+    position: relative;           /* override theme expectations */
 }
+
+.post .date {
+    position: static;
+    width: auto;
+    text-align: right;
+    padding-top: 0;
+}
+
+.post h1,
+.post h2,
+.post .taglist,
+.post .summary {
+    grid-column: 2;
+}
+
+@media only screen and (max-width: 850px) {
+    .post {
+        display: grid;
+        grid-template-columns: 1fr;   /* single column */
+        grid-template-rows: auto auto auto auto; /* ensures order control */
+    }
+
+    .post h1,
+    .post h2 {
+        grid-column: 1;
+        grid-row: 1;
+    }
+
+    .post .date {
+        grid-column: 1;
+        grid-row: 2;
+        text-align: left;
+        display: block;
+        font-weight: normal;
+    }
+
+    .post .taglist {
+        grid-column: 1;
+        grid-row: 3;
+    }
+
+    .post .summary {
+        grid-column: 1;
+        grid-row: 4;
+    }
+}
+
+

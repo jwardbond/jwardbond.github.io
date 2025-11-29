@@ -25,7 +25,6 @@
 
 [taxonomies]
     category = "categories"
-    star = "stars"
     tag = "tags"
 
 
