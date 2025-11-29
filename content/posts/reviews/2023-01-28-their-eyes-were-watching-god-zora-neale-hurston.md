@@ -1,7 +1,7 @@
 ---
 title: "Their Eyes Were Watching God by Zora Neale Hurston"
 date: 2023-01-28 22:00:00 -0700
-font_mode: mono
+font_mode: serif
 categories:
     - reviews
 tags:
