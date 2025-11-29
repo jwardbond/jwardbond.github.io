@@ -22,3 +22,4 @@ bin-release/
 public/
 /hugo_cache/
 .hugo_build.lock
+resources/

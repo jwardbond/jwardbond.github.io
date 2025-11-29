@@ -1,0 +1,78 @@
+.terminal-menu {
+  li {
+    margin-right: 30px;
+  }
+}
+
+.logo {
+  font-weight: normal;
+}
+
+.terminal-prompt {
+  max-width: 70%;
+  white-space: normal;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  word-break: break-word;
+
+  &::after {
+    animation: cursor 1s infinite;
+    width: 10px;
+  }
+  &::before {
+    content: none;
+  }
+}
+
+/* Desktop Flex Layout (Custom CSS) */
+@media only screen and (min-width: 851px) {
+  .terminal-nav {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+  }
+  .terminal-logo {
+    flex-basis: 66.66%;
+    max-width: 66.66%;
+  }
+  .terminal-menu {
+    flex-basis: 33.33%;
+    max-width: 33.33%;
+    text-align: right;
+  }
+  .terminal-prompt {
+    max-width: 100%;
+  }
+}
+
+// TODO
+// /* Mobile Navigation */ TODO
+// @media only screen and (max-width: 850px) {
+//   .site-name {
+//     width: 2ch;
+//     overflow: hidden;
+//   }
+
+//   .terminal-nav {
+//     display: flex;
+//     flex-direction: column;
+//     align-items: flex-start;
+//   }
+
+//   .terminal-menu {
+//     ul {
+//       display: flex;
+//       flex-direction: row;
+//       align-items: flex-start;
+//       justify-content: left;
+//       margin-top: 0;
+//     }
+//     li {
+//       margin-right: 20px;
+//     }
+//   }
+
+//   .logo {
+//     padding: calc(var(--global-space) * 1) 0;
+//   }
+// }

@@ -1,0 +1,31 @@
+figure {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 60px;
+  margin-right: 60px;
+
+  @media only screen and (max-width: 850px) {
+    margin: 5px 30px;
+  }
+}
+
+.image-grid {
+  display: grid;
+  grid-gap: 1em;
+  grid-template-rows: auto;
+  grid-template-columns: repeat(auto-fit, minmax(calc(var(--page-width) / 4), 1fr));
+}
+
+.gallery-image {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.box-masonry {
+  .box-masonry-image {
+    background: #fff;
+  }
+  &, &:hover {
+    box-shadow: none;
+  }
+}

@@ -1,0 +1,65 @@
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: var(--font-stack);
+  clear: both;
+}
+
+h1 {
+  margin-bottom: 150px;
+}
+
+.label {
+  font-family: var(--font-stack);
+}
+
+/* Serif Posts */
+.serif-post {
+  p, li, em, strong, blockquote {
+    font-family: var(--serif-font-stack);
+    font-size: var(--serif-font-size);
+    text-align: justify;
+    hyphens: auto;
+  }
+  blockquote {
+    p {
+      font-style: italic;
+      color: var(--secondary-color);
+    }
+    &::before {
+      content: "“";
+      color: var(--primary-color);
+      font-size: 3em;
+      vertical-align: -0.4em;
+      margin-right: 0.1em;
+      position: absolute;
+      left: 0.0;
+      top: 0.2em;
+    }
+  }
+}
+
+/* Mono Posts */
+.mono-post {
+  p, li, em, strong, blockquote {
+    font-family: var(--mono-font-stack);
+    font-size: var(--mono-font-size);
+    text-align: justify;
+    hyphens: auto;
+  }
+  blockquote {
+    p {
+      font-style: italic;
+      color: var(--secondary-color);
+    }
+    &::before {
+      content: ">";
+      color: var(--primary-color);
+      font-size: 1.5em;
+      vertical-align: -0.4em;
+      margin-right: 0.1em;
+      position: absolute;
+      left: 0;
+      top: 0;
+    }
+  }
+}

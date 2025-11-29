@@ -1,0 +1,44 @@
+:root {
+  /* Colors */
+  --background-color: #1a1a1a;
+  --font-color: #ffffff;
+  --invert-font-color: #222225;
+  --secondary-color: #a3abba;
+  --tertiary-color: #a3abba;
+  --primary-color: #29b4ff;
+  --error-color: #ff3c74;
+  --progress-bar-background: #3f3f44;
+  --progress-bar-fill: #29b4ff;
+  --code-bg-color: #3f3f44;
+  --global-font-color: #444;
+
+  /* Dimensions */
+  --page-width: 40em;
+
+  /* Typography Stacks (Preserved Custom Override) */
+  --font-stack: "Google Sans Code", Menlo, Monaco, Lucida Console,
+    Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New,
+    monospace, serif;
+
+  --mono-font-stack: "Google Sans Code", "Roboto Mono", Menlo, Monaco,
+    Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono,
+    Courier New, monospace, serif;
+
+  --serif-font-stack: "EB Garamond", serif;
+
+  /* Font Sizes */
+  --global-font-size: 18px;
+  --mono-font-size: var(--global-font-size);
+  --serif-font-size: 20px;
+  --global-line-height: 1.4em;
+
+  /* h1 underlines */
+  --display-h1-decoration: 1;
+}
+
+@media only screen and (max-width: 850px) {
+  :root {
+    --global-font-size: 14px;
+    --page-width: 70em;
+  }
+}
