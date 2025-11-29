@@ -7,18 +7,7 @@
 {{ range sort $posts "Date" "desc" }}        <div class="post">
             <div class="date">{{ .Date | time.Format ":date_medium" }}</div>
             <h2><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title | truncate 40}}</a></h2>
-            <div class="taglist">
-                {{ with .Params.categories }}
-    			    {{ range . }}
-    			    <a href="{{ "categories/" | relURL }}{{ . | urlize }}" class="tag category-tag">:{{ . }}:</a>
-    			    {{ end }}
-    			{{ end }}
-    			{{ with .Params.tags }}
-    			    {{ range . }}
-    			    <a href="{{ "tags/" | relURL }}{{ . | urlize }}" class="tag">:{{ . }}:</a>
-    			    {{ end }}
-    			{{ end }}
-            </div>
+			{{ partial "taglist.html" . }}
             <p class="summary">{{ .Summary }}</p>
         </div>    
     {{ end }}

@@ -1,0 +1,12 @@
+<div class="taglist">
+    {{ with .Params.categories }}
+        {{ range . }}
+            <a href="{{ "categories/" | relURL }}{{ . | urlize }}" class="tag category-tag">:{{ . }}:</a>
+        {{ end }}
+    {{ end }}
+    {{ with .Params.tags }}
+        {{ range . }}
+            <a href="{{ "tags/" | relURL }}{{ . | urlize }}" class="tag">:{{ . }}:</a>
+        {{ end }}
+    {{ end }}
+</div>
