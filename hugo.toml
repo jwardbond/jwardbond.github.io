@@ -1,7 +1,6 @@
-    baseurl = "https://example.com/"
-    title = "second-thought"
-    theme = "hugo-theme-console"
-    languageCode = "en-us"
+baseurl = "https://example.com/"
+title = "second-thought"
+languageCode = "en-us"
 
 [params]
     # Short title
