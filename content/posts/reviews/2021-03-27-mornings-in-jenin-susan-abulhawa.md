@@ -7,6 +7,8 @@ categories:
 tags:
     - books
     - 4-stars
+
+summary: I have always treated your ethnicity as something novel about you, and nothing more. Until this book, I never appreciated the weight that you must carry as you move through an apathetic world.
 ---
 
 I was recommended this book by a good Palestinian friend of mine.

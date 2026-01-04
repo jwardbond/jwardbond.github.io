@@ -24,7 +24,7 @@ What on Earth???
 
 I (normally) consider it one of my talents that I am able compartmentalize the good from the bad; that I am not one to throw the baby out with the bathwater. I kept on reading, hoping that the rest of the book would make up for that immersion-breaking idiocy. Unfortunately all 600 pages of this book were filled with writing of a similar kind. Here are some other notes I saved from the book:
 
->... a group of three women were rushing up the path. Taniel didn't even need to guess who they were. Privileged [wizards] werre magnetic to the opposite sex. Most agreed it was their bearing and power. It was common knowledge that their constant interactions with the Else gave them incredible sex drives, so few Privileged, especially the males, went without a harem.
+>... a group of three women were rushing up the path. Taniel didn't even need to guess who they were. Privileged wizards were magnetic to the opposite sex. Most agreed it was their bearing and power. It was common knowledge that their constant interactions with the Else gave them incredible sex drives, so few Privileged, especially the males, went without a harem.
 
 >"Maies left me last month, right after the coup."
 >
@@ -64,7 +64,7 @@ And the magic system... truly a travesty. It had so much potential: traditional 
 
 - Despite mentioning "knacks" many times, only a couple characters had these little magical talents and only when it was convenient to the plot.
 - The wizards were just a bunch of promiscuous toadies, useful only for being murdered in order to show how strong other characters are.
-- I couldn't actually figure out what the gunpowder mages could do, short of snorting <s>cocaine</s> gunpowder to improve their eyesite. Sometimes they seem to be able to fire bullets out of the air, sometimes the decide that they need to use a rifle. Sometimes they can control a bullet after it is shot but it takes a lot of work. Some of them can blow up gunpowder at various distances away.
+- I couldn't actually figure out what the gunpowder mages could do, short of snorting ~~cocaine~~ gunpowder to improve their eyesite. Sometimes they seem to be able to fire bullets out of the air, sometimes the decide that they need to use a rifle. Sometimes they can control a bullet after it is shot but it takes a lot of work. Some of them can blow up gunpowder at various distances away.
 
 This was not a good book. The bones were there, but jenga-ed into a precarious tower that toppled in chapter 2. The reviews are so frighteningly good it makes me wonder whether I have lost touch with the genre, or my sanity.
 
