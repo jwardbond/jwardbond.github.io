@@ -1,8 +1,11 @@
 body {
-  font-family: var(--font-stack);
+  font-family: var(--mono-font-stack);
   font-size: var(--global-font-size);
   background-color: var(--background-color);
   margin-bottom: 75px;
+  max-width: var(--page-width);
+  margin: 0 auto;
+  padding: 0 1rem;
 }
 
 strong {
@@ -26,19 +29,6 @@ p.social a {
 
   &:hover {
     color: #fff;
-  }
-}
-
-.active a {
-  text-decoration: underline;
-}
-
-.content-column-content {
-  p, li {
-    color: #666;
-  }
-  .command {
-    color: #aaa;
   }
 }
 

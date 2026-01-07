@@ -12,20 +12,22 @@
   --code-bg-color: #3f3f44;
   --global-font-color: #444;
 
-  /* Dimensions */
-  --page-width: 40em;
-
-  /* Typography Stacks */
+  /* Typography */
   --font-stack: "Google Sans Code", monospace;
-  --mono-font-stack: "Google Sans Code", monospace;
-  --serif-font-stack: "EB Garamond", serif;
-  --sans-font-stack: "Source Sans 3", sans-serif;
+  --global-font-size: 16px;
 
-  /* Font Sizes */
-  --global-font-size: 18px;
+  --mono-font-stack: "Google Sans Code", monospace;
   --mono-font-size: var(--global-font-size);
-  --serif-font-size: 16px;
-  --global-line-height: 1.4em;
+
+  --serif-font-stack: "EB Garamond", serif;
+  --serif-font-size: calc(var(--global-font-size) * 1.2);
+
+  --sans-font-stack: "Source Sans 3", sans-serif;
+  --sans-font-size: calc(var(--global-font-size) * 1.2);
+
+  --global-line-height: 1.7em;
+
+  --page-width: 750px;
 
   /* h1 underlines */
   --display-h1-decoration: 1;
@@ -33,7 +35,6 @@
 
 @media only screen and (max-width: 850px) {
   :root {
-    --global-font-size: 14px;
-    --page-width: 70em;
+    --global-font-size: 16px;
   }
 }
