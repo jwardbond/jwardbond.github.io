@@ -1,7 +1,7 @@
 ---
 title: Forecats
 date: 2025-12-19 5:45:00 -0500
-font_mode: mono
+font_mode: serif
 draft: true
 categories:
   - guides

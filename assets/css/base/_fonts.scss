@@ -1,59 +1,50 @@
-/* Google Sans Code */
+// Sans-Serif Font: Source Sans 3
 @font-face {
-  font-family: "Google Sans Code";
-  src: url("../fonts/GoogleSansCode-Regular.ttf") format("truetype");
+  font-family: 'Source Sans 3';
+  src: url('../fonts/SourceSans3-VariableFont_wght.ttf') format('truetype');
+  font-weight: 100 900;
   font-style: normal;
-  font-weight: 400;
-  text-rendering: optimizeLegibility;
-}
-@font-face {
-  font-family: "Google Sans Code";
-  src: url("../fonts/GoogleSansCode-Italic.ttf") format("truetype");
-  font-style: italic;
-  font-weight: 400;
-  text-rendering: optimizeLegibility;
-}
-@font-face {
-  font-family: "Google Sans Code";
-  src: url("../fonts/GoogleSansCode-Bold.ttf") format("truetype");
-  font-style: normal;
-  font-weight: 700;
-  text-rendering: optimizeLegibility;
-}
-@font-face {
-  font-family: "Google Sans Code";
-  src: url("../fonts/GoogleSansCode-BoldItalic.ttf") format("truetype");
-  font-style: italic;
-  font-weight: 700;
-  text-rendering: optimizeLegibility;
+  font-display: swap;
 }
 
-/* EB Garamond */
 @font-face {
-  font-family: "EB Garamond";
-  src: url("../fonts/EBGaramond-Regular.ttf") format("truetype");
-  font-style: normal;
-  font-weight: 400;
-  text-rendering: optimizeLegibility;
-}
-@font-face {
-  font-family: "EB Garamond";
-  src: url("../fonts/EBGaramond-Italic.ttf") format("truetype");
+  font-family: 'Source Sans 3';
+  src: url('../fonts/SourceSans3-Italic-VariableFont_wght.ttf') format('truetype');
+  font-weight: 100 900;
   font-style: italic;
-  font-weight: 400;
-  text-rendering: optimizeLegibility;
+  font-display: swap;
 }
+
+// Serif Font: EB Garamond
 @font-face {
-  font-family: "EB Garamond";
-  src: url("../fonts/EBGaramond-Bold.ttf") format("truetype");
+  font-family: 'EB Garamond';
+  src: url('../fonts/EBGaramond-VariableFont_wght.ttf') format('truetype');
+  font-weight: 100 900;
   font-style: normal;
-  font-weight: 700;
-  text-rendering: optimizeLegibility;
+  font-display: swap;
 }
+
 @font-face {
-  font-family: "EB Garamond";
-  src: url("../fonts/EBGaramond-BoldItalic.ttf") format("truetype");
+  font-family: 'EB Garamond';
+  src: url('../fonts/EBGaramond-Italic-VariableFont_wght.ttf') format('truetype');
+  font-weight: 100 900;
   font-style: italic;
-  font-weight: 700;
-  text-rendering: optimizeLegibility;
+  font-display: swap;
+}
+
+// Mono Font: Google Sans Code
+@font-face {
+  font-family: 'Google Sans Code';
+  src: url('../fonts/GoogleSansCode-VariableFont_wght.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Google Sans Code';
+  src: url('../fonts/GoogleSansCode-Italic-VariableFont_wght.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: italic;
+  font-display: swap;
 }

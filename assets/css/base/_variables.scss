@@ -15,21 +15,16 @@
   /* Dimensions */
   --page-width: 40em;
 
-  /* Typography Stacks (Preserved Custom Override) */
-  --font-stack: "Google Sans Code", Menlo, Monaco, Lucida Console,
-    Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New,
-    monospace, serif;
-
-  --mono-font-stack: "Google Sans Code", "Roboto Mono", Menlo, Monaco,
-    Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono,
-    Courier New, monospace, serif;
-
+  /* Typography Stacks */
+  --font-stack: "Google Sans Code", monospace;
+  --mono-font-stack: "Google Sans Code", monospace;
   --serif-font-stack: "EB Garamond", serif;
+  --sans-font-stack: "Source Sans 3", sans-serif;
 
   /* Font Sizes */
   --global-font-size: 18px;
   --mono-font-size: var(--global-font-size);
-  --serif-font-size: 20px;
+  --serif-font-size: 16px;
   --global-line-height: 1.4em;
 
   /* h1 underlines */
