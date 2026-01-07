@@ -1,7 +1,7 @@
 :root {
   /* Colors */
   --background-color: #1a1a1a;
-  --font-color: #ffffff;
+  --font-color: #e4e4e4;
   --invert-font-color: #222225;
   --secondary-color: #a3abba;
   --tertiary-color: #a3abba;
@@ -14,7 +14,7 @@
 
   /* Typography */
   --font-stack: "Google Sans Code", monospace;
-  --global-font-size: 16px;
+  --global-font-size: 17px;
 
   --mono-font-stack: "Google Sans Code", monospace;
   --mono-font-size: var(--global-font-size);
@@ -27,7 +27,7 @@
 
   --global-line-height: 1.7em;
 
-  --page-width: 750px;
+  --page-width: 800px;
 
   /* h1 underlines */
   --display-h1-decoration: 1;
