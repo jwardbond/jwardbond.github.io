@@ -1,5 +1,5 @@
 baseurl = "https://example.com/"
-title = "second-thought"
+title = "second-thoughts"
 languageCode = "en-us"
 
 [params]

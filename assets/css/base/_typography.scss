@@ -1,7 +1,20 @@
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: var(--font-stack);
   clear: both;
   margin-bottom: 0em;
+}
+
+h1::after {
+  content: "====================================================================================================";
+  position: absolute;
+  margin-bottom: 0.25em;
+  left: 0;
+  display: var(--display-h1-decoration);
 }
 
 strong {
@@ -13,11 +26,11 @@ strong {
 }
 
 blockquote::after {
-    content: none;
+  content: none;
 }
 
 blockquote {
-    padding-left: 2em;
-    padding-right: 2em;
-    margin: 0;
+  padding-left: 2em;
+  padding-right: 2em;
+  margin: 0;
 }

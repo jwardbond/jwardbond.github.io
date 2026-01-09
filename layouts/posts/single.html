@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div class="{{ if eq .Params.font_mode "mono" }}mono-post{{ else }}serif-post{{ end }}">
+<div class="blog-post {{ if eq .Params.font_mode "mono" }}mono-post{{ else }}serif-post{{ end }}">
     <h1>{{ .Title }}</h1>
     {{ .Date | time.Format ":date_medium" }}
     {{ partial "taglist.html" . }}
