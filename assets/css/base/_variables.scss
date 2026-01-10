@@ -9,12 +9,12 @@
   --error-color: #ff3c74;
   --progress-bar-background: #3f3f44;
   --progress-bar-fill: #29b4ff;
-  --code-bg-color: #3f3f44;
+  --code-bg-color: #222225;
   --global-font-color: #444;
 
   /* Typography */
   --font-stack: "Google Sans Code", monospace;
-  --global-font-size: 17px;
+  --global-font-size: 16px;
 
   --mono-font-stack: "Google Sans Code", monospace;
   --mono-font-size: var(--global-font-size);
@@ -23,7 +23,7 @@
   --serif-font-size: calc(var(--global-font-size) * 1.2);
 
   --sans-font-stack: "Source Sans 3", sans-serif;
-  --sans-font-size: calc(var(--global-font-size) * 1.2);
+  --sans-font-size: calc(var(--global-font-size) * 1.25);
 
   --global-line-height: 1.7em;
 

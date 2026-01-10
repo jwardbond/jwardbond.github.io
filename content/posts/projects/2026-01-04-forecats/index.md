@@ -48,7 +48,9 @@ I got really lucky when doing this project because google had _just_ released `g
 I had some problems with the outputs looking same-y --- which I think is mostly a result of how good image generation models are getting at following prompts --- so I did a few things to keep the outputs looking _fresh_. The most impactful of these was using a two-stage image generation process. First, a scene generation model (`gemini-2.5-flash-lite`) uses forecast data to generate a scene with structure
 
 ```
-Activity: [], Foreground: [], Background: []
+Activity: [],
+Foreground: [],
+Background: []
 ```
 
 Then, the image generation model (`gemini-3-pro-image-preview`), takes this scene descrition, the forecast data (again), pictures/descriptions of my cats, and a randomly selected art style to output the final image.
