@@ -34,6 +34,14 @@
   }
 }
 
+.footnotes {
+  li {
+    &::after {
+      color: var(--primary-color);
+    }
+  }
+}
+
 /* Serif Posts */
 .serif-post {
   p,
@@ -44,6 +52,16 @@
     font-family: var(--serif-font-stack);
     font-size: var(--serif-font-size);
     hyphens: auto;
+  }
+
+  figcaption p {
+    font-size: calc(var(--serif-font-size) * 0.8);
+    color: var(--secondary-color);
+    line-height: calc(var(--global-line-height) * 0.9);
+  }
+
+  .footnotes p {
+    font-size: calc(var(--serif-font-size) * 0.8);
   }
 }
 
@@ -57,5 +75,10 @@
     font-family: var(--mono-font-stack);
     font-size: var(--mono-font-size);
     hyphens: auto;
+  }
+  figcaption p {
+    font-size: calc(var(--mono-font-size) * 0.8);
+    color: var(--secondary-color);
+    line-height: calc(var(--global-line-height) * 0.9);
   }
 }
