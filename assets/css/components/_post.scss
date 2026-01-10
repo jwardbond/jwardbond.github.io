@@ -81,4 +81,7 @@
     color: var(--secondary-color);
     line-height: calc(var(--global-line-height) * 0.9);
   }
+  .footnotes p {
+    font-size: calc(var(--serif-font-size) * 0.8);
+  }
 }
