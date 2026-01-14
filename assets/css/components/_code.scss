@@ -1,0 +1,6 @@
+pre code {
+    overflow-x: auto;      /* only when needed */
+    overflow-y: hidden;
+    display: block;        /* no inline sizing weirdness */
+    min-width: 0;          /* allow shrink */
+}
