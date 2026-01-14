@@ -1,5 +1,5 @@
 baseurl = "https://secondthoughts.my/"
-title = "Second Thoughts"
+title = "second-thoughts"
 languageCode = "en-us"
 
 [params]
