@@ -6,7 +6,7 @@ categories:
     - reviews
 tags:
     - books
-    - 5-stars
+    - 4-stars
 
 summary: "This was a highly relevant book for me, but not because it is about a global pandemic..." 
 ---
