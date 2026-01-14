@@ -15,7 +15,7 @@ summary: A Home Assistant integration that takes pictures of your cat(s) and for
 
 _Forecats is a Home Assistant integration that takes pictures of your cat(s) and forecast data, and then uses Gemini's Nano Banana image generation model to create and weather-themed pictures of your cats. I display these pictures on a Spectra 6 e-ink screen_
 
-_The implementation (and steps to do it yourself) can be found in [this](https://github.com/jwardbond/jwardbond.github.io) github repo._
+_The implementation (and steps to do it yourself) can be found in [this](https://github.com/jwardbond/forecats) github repo._
 
 ---
 
@@ -45,7 +45,7 @@ The image generation procedure is implemented as a custom HA integration. Doing 
 
 I got really lucky when doing this project because google had _just_ released `gemini-3-pro-image-preview`, and I hadn't realized how few image-to-image APIs were available prior to this.
 
-I had some problems with the outputs looking same-y --- which I think is mostly a result of how good image generation models are getting at following prompts --- so I did a few things to keep the outputs looking _fresh_. The most impactful of these was using a two-stage image generation process. First, a scene generation model (`gemini-2.5-flash-lite`) uses forecast data to generate a scene with structure
+I had some problems with the outputs looking same-y --- which I think is mostly a result of how good image generation models are getting at following prompts --- so I did a few things to keep the outputs looking _fresh_. The most impactful of these was using a two-stage image generation process. First, a scene generation model (`gemini-2.5-flash-lite`) uses forecast data to generate a scene with structure:
 
 ```
 Activity: [],
