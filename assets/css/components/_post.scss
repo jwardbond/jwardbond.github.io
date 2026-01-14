@@ -3,6 +3,7 @@
     p {
       font-style: italic;
       color: var(--secondary-color);
+      margin: 0 0 calc(var(--global-line-height) * 0.8);
     }
     &::before {
       content: "“";
@@ -58,6 +59,7 @@
   blockquote {
     font-family: var(--serif-font-stack);
     font-size: var(--serif-font-size);
+    margin: 0 0 calc(var(--global-line-height) * 0.6);
     hyphens: auto;
   }
 
