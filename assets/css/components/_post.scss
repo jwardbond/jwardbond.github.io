@@ -1,5 +1,5 @@
 .blog-post {
-  blockquote{
+  blockquote {
     p {
       font-style: italic;
       color: var(--secondary-color);
@@ -11,30 +11,84 @@
       vertical-align: -0.4em;
       margin-right: 0.1em;
       position: absolute;
-      left: 0.0;
+      left: 0;
       top: 0.2em;
     }
   }
 
+  h1::after {
+    content: "====================================================================================================";
+    position: absolute;
+    margin-bottom: -0.25em;
+    left: 0;
+    display: none;
+  }
   h1 {
+    font-size: calc(var(--global-font-size) * 2.5);
+    margin: 0 0 20px 0;
+  }
+  h2 {
     font-size: calc(var(--global-font-size) * 2);
+    margin: 0 0 20px 0;
+  }
+  h3 {
+    font-size: calc(var(--global-font-size) * 1.5);
+    margin: 0 0 20px 0;
+  }
+  h4 {
+    font-size: calc(var(--global-font-size) * 1.2);
+    margin: 0 0 20px 0;
+  }
+}
+
+.footnotes {
+  li {
+    &::after {
+      color: var(--primary-color);
+    }
   }
 }
 
 /* Serif Posts */
 .serif-post {
-  p, li, em, strong, blockquote {
+  p,
+  li,
+  em,
+  strong,
+  blockquote {
     font-family: var(--serif-font-stack);
     font-size: var(--serif-font-size);
     hyphens: auto;
+  }
+
+  figcaption p {
+    font-size: calc(var(--serif-font-size) * 0.8);
+    color: var(--secondary-color);
+    line-height: calc(var(--global-line-height) * 0.9);
+  }
+
+  .footnotes p {
+    font-size: calc(var(--serif-font-size) * 0.8);
   }
 }
 
 /* Mono Posts */
 .mono-post {
-  p, li, em, strong, blockquote {
+  p,
+  li,
+  em,
+  strong,
+  blockquote {
     font-family: var(--mono-font-stack);
     font-size: var(--mono-font-size);
     hyphens: auto;
+  }
+  figcaption p {
+    font-size: calc(var(--mono-font-size) * 0.8);
+    color: var(--secondary-color);
+    line-height: calc(var(--global-line-height) * 0.9);
+  }
+  .footnotes p {
+    font-size: calc(var(--serif-font-size) * 0.8);
   }
 }

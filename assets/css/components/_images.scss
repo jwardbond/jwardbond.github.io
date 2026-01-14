@@ -1,8 +1,8 @@
 figure {
   margin-top: 15px;
   margin-bottom: 15px;
-  margin-left: 60px;
-  margin-right: 60px;
+  margin-left: 20px;
+  margin-right: 20px;
 
   @media only screen and (max-width: 850px) {
     margin: 5px 30px;
@@ -13,7 +13,10 @@ figure {
   display: grid;
   grid-gap: 1em;
   grid-template-rows: auto;
-  grid-template-columns: repeat(auto-fit, minmax(calc(var(--page-width) / 4), 1fr));
+  grid-template-columns: repeat(
+    auto-fit,
+    minmax(calc(var(--page-width) / 4), 1fr)
+  );
 }
 
 .gallery-image {
@@ -25,7 +28,8 @@ figure {
   .box-masonry-image {
     background: #fff;
   }
-  &, &:hover {
+  &,
+  &:hover {
     box-shadow: none;
   }
 }

@@ -34,12 +34,26 @@ ol li::before {
 li {
   margin: 0 0 calc(var(--global-line-height) / 4);
   &::after {
-    color: var(--primary-color);
+    color: var(--font-color);
     content: counters(item, ".") ". ";
     counter-increment: item;
   }
 }
 
-.footnotes p, .footnotes em, .footnotes strong {
+.footnotes p,
+.footnotes em,
+.footnotes strong {
   color: var(--secondary-color);
+}
+
+p code {
+  background-color: var(--code-bg-color);
+  border: var(--secondary-color) 1px solid;
+  border-radius: 3px;
+  padding: 0 0.2em 0 0.2em;
+}
+
+code::after,
+code::before {
+  display: none;
 }
