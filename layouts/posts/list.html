@@ -1,13 +1,23 @@
 {{ define "main" }}
-<h1>{{ .Page.Title }}</h1>
+<h1>{{ .Title }}</h1>
+{{ .Content }}
 <br/>
 <div class="posts-list">
-{{ $posts := where site.RegularPages "Section" "posts" }}
-{{ $posts = where $posts ".Params.private" "!=" true }}
-{{ range sort $posts "Date" "desc" }}        <div class="post">
+    {{ $posts := .RegularPages }}
+
+    {{/* Overwrite: If we are at the root "posts" section, get ALL posts recursively */}}
+    {{ if eq .CurrentSection .FirstSection }}
+        {{ $posts = where site.RegularPages "Section" "posts" }}
+    {{ end }}
+
+    {{/* Apply filters */}}
+    {{ $posts = where $posts ".Params.private" "!=" true }}
+    
+    {{ range sort $posts "Date" "desc" }}
+        <div class="post">
             <div class="date">{{ .Date | time.Format ":date_medium" }}</div>
             <h2><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h2>
-			{{ partial "taglist.html" . }}
+            {{ partial "taglist.html" . }}
             <p class="summary">{{ .Summary }}</p>
         </div>    
     {{ end }}

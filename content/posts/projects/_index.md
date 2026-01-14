@@ -1,3 +1,3 @@
 ---
-title: "Coding"
+title: "Projects"
 ---
