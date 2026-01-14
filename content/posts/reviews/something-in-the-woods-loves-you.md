@@ -13,7 +13,7 @@ summary: Yet here you are, stringing together days like flowers in your crown.
 
 *Yet here you are, stringing together days like flowers in your crown*
 
-I picked up this book expecting a <i>Braiding Sweetgrass</i> type experience, but ultimately this book was more about the author's struggles with depression, and nature just happened to be a convenient, and often stretched, source of metaphors. I found myself speed running through the "meat" of the book, just to get to the first and last few pages of every chapter, when the author would step back from the pop-philosophical musings and return to the natural world. 
+I picked up this book expecting a *Braiding Sweetgrass* type experience, but ultimately this book was more about the author's struggles with depression, and nature just happened to be a convenient, and often stretched, source of metaphors. I found myself speed running through the "meat" of the book, just to get to the first and last few pages of every chapter, when the author would step back from the pop-philosophical musings and return to the natural world. 
 
 I got very tired of the writing style. The one-sentence paragraph was heavily abused, and it made a large portion of the book seem like a string of quotes from motivational posters.
 
