@@ -4,9 +4,26 @@
   padding-top: 10px;
   border-top: 1px solid var(--secondary-color);
   color: var(--global-font-color);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 
   @media only screen and (max-width: 850px) {
     margin-top: 50px;
     padding-top: 5px;
+    flex-direction: column;
+    gap: 0.5rem;
+    align-items: flex-start;
   }
+}
+
+.footer .social {
+  margin: 0;
+}
+
+.footer .social a img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  color: var(--global-font-color);
 }
