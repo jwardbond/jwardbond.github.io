@@ -56,11 +56,11 @@ The craziest thing I have noticed is that she smells way different. Her whole he
 
 Nothing hormonal (or is there? idk). The biggest change for me in the past week was that I have been starting to think about what I want my kid to learn from me. I have been scrolling on my phone, or distracted at work, and thought the parenthood equivalent of WWJD. I've enjoyed the little extra bit of drive this has given me.
 
-It also occured to me this week that we have a truly giant list of things to do before you are born, but that I wasn't anxious about this at all. I am assuming this todo-list anxiety will start growing as the weeks go on.
+It also occured to me this week that we have a truly giant list of things to do before our baby is born, but that I wasn't anxious about this at all. I am assuming this todo-list anxiety will start growing as the weeks go on.
 
-## Names
+## Note to Baby
 
-I thought of an awesome name for you. "Piper", after a character in a book I am reading (Assassins Quest by Robin Hobb, it's just OK) and after the Organge is the New Black character. Your mom approved, so I won't tell her where it's from.
+I thought of an awesome name for you. "Piper", after a character in a book I am reading (Assassin's Quest by Robin Hobb, it's just OK) and after the Orange is the New Black character. Your mom approved, so I won't tell her where it's from.
 
 That is all assuming you are a girl, of course. If you are boy, we don't know yet. "Takashi" will probably be your name in the womb (just like your cousin's was "Walter"), from a longstanding joke between your mom and I, but there is 0 chance of that surviving 1 second after your birth.
 
