@@ -23,3 +23,4 @@ I am very aware that almost nothing will go according to my expectations, so I h
 - [ ] You me and your mom sit on the couch and read books (independently)
 - [ ] I teach you programming and math
 - [ ] I read fantasy books and math textbooks to you in the crib
+- [ ] You sit there as a baby giggling while I go "takakakakakakaka" with your little feet like a looney tunes character running (Your mom makes this noise every time she sees a little pair of clothes or shoes we got for you.)
