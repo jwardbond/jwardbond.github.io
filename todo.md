@@ -1,0 +1,4 @@
+- [x] Figure captions in darker font
+- [x] Images should be full width
+- [ ] Code blocks should look nice
+  - [ ] No scroll bar on large screens
