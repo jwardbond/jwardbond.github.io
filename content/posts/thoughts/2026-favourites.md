@@ -2,6 +2,8 @@
 title: Favourites in 2026
 date: 2026-12-31 00:00:00 -0500
 font_mode: serif
+tags:
+  - list
 categories:
   - favourites
 summary: "My favourites movies, books, songs, and albums that I consumed in 2026"
@@ -15,8 +17,10 @@ summary: "My favourites movies, books, songs, and albums that I consumed in 2026
 
 ## Books
 
-- [The Dispossessed]({{< relref "posts/reviews/the-dispossessed.md" >}})
+- [The Dispossessed]({{< relref "/posts/reviews/the-dispossessed.md" >}})
+- [I Who Have Never Known Men](https://www.goodreads.com/book/show/217266252-i-who-have-never-known-men)
 
 ## Other
 
 - [Making Software](https://www.makingsoftware.com/) and this [Hacker News Thread](https://news.ycombinator.com/item?id=43678144). So many good sources for the curious generalist like myself.
+- [A Tale of Dynamic Programming](https://iagoleal.com/posts/dynamic-programming/)
