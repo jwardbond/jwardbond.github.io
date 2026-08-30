@@ -20,7 +20,11 @@ I am very aware that almost nothing will go according to my expectations, so I h
 
 - [ ] Going to look at birds and lizards, wearing matching fishing vests and each of us with binoculars.
 - [ ] I am playing banjo and you want to learn, so you also take up an instrument and we have jam sessions.
+- [ ] I am playing banjo to you as a baby and it makes you giggle
 - [ ] You me and your mom sit on the couch and read books (independently)
 - [ ] I teach you programming and math
-- [ ] I read fantasy books and math textbooks to you in the crib
+- [ ] I read fantasy books and math textbooks to you in the crib, sitting on the nursing chair.
 - [ ] You sit there as a baby giggling while I go "takakakakakakaka" with your little feet like a looney tunes character running (Your mom makes this noise every time she sees a little pair of clothes or shoes we got for you.)
+- [ ] You watch me working on home automation stuff and ask to join and that starts you on a maker/programmer/engineering path
+- [ ] You learn how to boulder and that makes you want to climb all the trees.
+- [ ] We watch Gintama together (I still need to think of how old you will have to be)
