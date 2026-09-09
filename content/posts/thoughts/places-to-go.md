@@ -8,3 +8,4 @@ summary: "A list of things/places I'd like to see, so I can remember them next t
 ---
 
 - [ ] Swimming in the Aare river.
+- [ ] Kamnik-Savinja Alps. I saw an ad indicating that there was a "water trail" whatever that means, but I love rivers!
