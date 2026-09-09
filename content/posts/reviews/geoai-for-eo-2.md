@@ -31,18 +31,30 @@ The primary function of a (remote sensing) satellite is to measure _radiance_: t
 
 What you do with this number, and how it compares to the actual physical quantity you measure, is an anlysis problem for later.
 
-## Major differences in camera types
+## Major differences between camera types
 
 While the cameras on satellites and the cameras tourists hold both operate _generally_ according to the same general model above, there are some differences:
 
-**Sensor array configuration** The cameras on your phone use a 2D grid of sensors (a _staring_ array). They are (barring your own self control) stable when you take the picture, and capture the whole 2D image at once. Some satellites operate like this, but most use either _pushbroom_ or _whiskbroom_ sensor configurations. The wikipedia articles for these sensors are short, and show some really helpful animations ([pushbroom](https://en.wikipedia.org/whttps://en.wikipedia.org/wiki/Whisk_broom_scanneriki/Push_broom_scanner), [whiskbroom](https://en.wikipedia.org/wiki/Whisk_broom_scanner)).
+### Sensor array configuration
+The cameras on your phone use a 2D grid of sensors (a _staring_ array). They are (barring your own self control) stable when you take the picture, and capture the whole 2D image at once. Some satellites operate like this, but most use either _pushbroom_ or _whiskbroom_ sensor configurations. The wikipedia articles for these sensors are short, and show some really helpful animations ([pushbroom](https://en.wikipedia.org/whttps://en.wikipedia.org/wiki/Whisk_broom_scanneriki/Push_broom_scanner), [whiskbroom](https://en.wikipedia.org/wiki/Whisk_broom_scanner)).
 
-**Satellites often capture more than just RGB**. A traditional digital camera captures RGB by using a [Bayer filter](https://en.wikipedia.org/wiki/Bayer_filter). Satellites capture a whole range of bands. For instance, the Sentinel-2 program has 13 different bands, 3 of which are RGB. Common bands include:
+Note that with pushbroom and whiskbroom, we don't get discrete images so much as a single long, skinny image, representing a strip of the surface of the earth. It's kinda like taking a pano on your phone that never ends. These long strips are often chopped up into single images for downstream processing. For example, landsat images a continuous swath of the earth around 180km in width, but for downstream processing chops it up into 185km x 180km (or something along those lines) individual images.
 
-- Ultraviolet/blue, which is used for aerosol
-- RGB bands
-- Near infrared (NIR), which is commonly used for measuring vegetation.
-- Short wave infrared (SWIR), which is commonly used for measuring moisture content
+### Satelittes often capture more than just RGB
+A traditional digital camera captures RGB by using a [Bayer filter](https://en.wikipedia.org/wiki/Bayer_filter). Satellites capture a whole range of bands. For instance, the Sentinel-2 program has 13 different bands, 3 of which are RGB. Common bands include:
+
+- Ultraviolet/blue. Commonly used for aerosol
+- RGB
+- Near infrared (NIR). Often used for vegetation health.
+- Short wave infrared (SWIR). Often used for water/moisture content.
+- Thermal infrared.
+- Pancromatic. Captures a wide range of wavelengths at higher resolution.
+
+For remote sensing tasks it is common to use combinations of these bands. I've found [this site](https://gisgeography.com/spectral-signature/) has a good overview of common wavelengths and their different use cases, and they also have an article on the use cases of [different band combinations](https://gisgeography.com/sentinel-2-bands-combinations/). There is an interesting history of the different LANDSAT bands [here](https://science.nasa.gov/mission/landsat/spectral-bands-and-applications/)
+
+Often, data acquisition for the different bands involves shuffling around the incoming light to different sensors using series of mirrors, and it is frequently the case that different bands are captured at different resolution.
+
+Some satellites even have cameras that can capture *hundreds* of different bands. This is called *hyperspectral imaging*.
 
 ## 17 minutes and the maximum period of observation is 32 minutes.
 
